@@ -2,7 +2,7 @@ const usuario ={
     nome:"Gustavo",
     sobreNome:"Xavier",
     Idade: 21,
-    Equipe: "Ferrari"
+    Equipe: "Aston Martin"
 };
 
 const mensagem1 = "Bem-Vindo à Ferrari";
